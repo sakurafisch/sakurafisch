@@ -16,7 +16,7 @@
 
 <p align="left">
     <img height="230" src="https://github-readme-stats.vercel.app/api?username=sakurafisch&show_icons=true">
-    <img height="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakurafisch&langs_count=7&bg_color=100,33efdb,99a82a&text_color=fff&title_color=fff&hide=javascript,html,css"
+    <img height="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakurafisch&langs_count=7&hide=javascript,html,css"
 </p>
 
 
