@@ -6,7 +6,7 @@
 ![TypeScript](https://img.shields.io/badge/Typescript-007ACC?style=flat-square&logo=TypeScript&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=ffffff)
 
-### Favorite Languages
+### Available Languages
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=ffffff)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=ffffff)
