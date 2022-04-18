@@ -1,7 +1,7 @@
 ### Software Engineering Principles
 
 - No Silver Bullet
-- KISS principle
+- KISS Principle
 - YAGNI Principle
 
 ### Ecstatic Languages
