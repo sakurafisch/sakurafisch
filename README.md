@@ -5,6 +5,7 @@
 
 <p align="center">
     <img src="https://img.shields.io/badge/C%2b%2b-00599C?style=flat-square&logo=c%2b%2b&logoColor=ffffff" />
+    <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=ffffff" />
     <img src="https://img.shields.io/badge/GoLang-00ADD8?style=flat-square&logo=go&logoColor=ffffff" />
     <img src="https://img.shields.io/badge/Typescript-007ACC?style=flat-square&logo=TypeScript&logoColor=ffffff" />
 </p>
