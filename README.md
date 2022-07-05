@@ -2,7 +2,7 @@
 
 - I am currently a postgraduate student in computer science.
 
-- I mostly code in ![TypeScript](https://img.shields.io/badge/Typescript-007ACC?style=flat-square&logo=TypeScript&logoColor=ffffff) and ![Go](https://img.shields.io/badge/Golang-00ADD8?style=flat-square&logo=go&logoColor=ffffff) .
+- I mostly code in ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=TypeScript&logoColor=ffffff) and ![Go](https://img.shields.io/badge/Golang-00ADD8?style=flat-square&logo=go&logoColor=ffffff) .
 
 - Anyhow, welcome to my Github profile.
 
