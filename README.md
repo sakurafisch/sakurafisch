@@ -2,7 +2,9 @@
 
 - I am currently a postgraduate student in computer science.
 
-- I mostly code in [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=TypeScript&logoColor=ffffff)](https://www.typescriptlang.org/) and [![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=ffffff)](https://go.dev/) .
+- I mostly code in [![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=ffffff)](https://go.dev/) and [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=TypeScript&logoColor=ffffff)](https://www.typescriptlang.org/) for web development.
+
+- I'd like to code in [![C++](https://img.shields.io/badge/C%2b%2b-00599C?style=flat-square&logo=c%2b%2b&logoColor=ffffff)](https://cplusplus.com/) and [![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=ffffff)](https://www.rust-lang.org/) for developing [Node-API addon](https://nodejs.org/api/n-api.html) and [![wasm](https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=WebAssembly&logoColor=ffffff)](https://webassembly.org/) when I am free. It is a good idea to develop wasm modules in Rust or C++ and then provide node.js/deno.js binding. In this way, performance can be improved without losing development efficiency.
 
 - Anyhow, welcome to my Github profile.
 
