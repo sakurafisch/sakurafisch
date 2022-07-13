@@ -6,6 +6,8 @@
 
 - I'd like to code in [![C++](https://img.shields.io/badge/C%2b%2b-00599C?style=flat-square&logo=c%2b%2b&logoColor=ffffff)](https://cplusplus.com/) and [![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=ffffff)](https://www.rust-lang.org/) for developing [Node-API addon](https://nodejs.org/api/n-api.html) and [![wasm](https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=WebAssembly&logoColor=ffffff)](https://webassembly.org/) when I am free. It is a good idea to develop wasm modules in Rust or C++ and then provide node.js/deno.js binding. In this way, performance can be improved without losing development efficiency.
 
+
+
 - Anyhow, welcome to my Github profile.
 
 <p align="center">
@@ -13,4 +15,12 @@
     <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakurafisch&langs_count=7&layout=compact&hide=less,objective-c,powershell,html,css,javascript,cmake,shell,ruby,batchfile,starlark,assembly,makefile,dockerfile,c,c%23,nix&theme=react"
 </p>
 
-The key is not what language is used, but who is using it.
+## Essence and Accidents of Software Engineering
+
+- I believe there is no silver bullet.
+
+- Essential Task: Software itself has inherent difficulties in conceptual construction; that is, how to develop concrete conceptual solutions from abstract problems.
+
+- Accidental Task: Express these abstract entities in a programming language and map the program to machine language under certain space and speed constraints.
+
+- Who are using rather than what language is used is what matter.
