@@ -12,3 +12,5 @@
     <img height="170" src="https://github-readme-stats.vercel.app/api?username=sakurafisch&show_icons=true&theme=react">
     <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakurafisch&langs_count=7&layout=compact&hide=less,objective-c,powershell,html,css,javascript,cmake,shell,ruby,batchfile,starlark,assembly,makefile,dockerfile,c,c%23,nix&theme=react"
 </p>
+
+The key is not what language is used, but who is using it.
