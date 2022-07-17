@@ -15,10 +15,14 @@
 
 ## Essence and Accidents of Software Engineering
 
-- I believe there is no silver bullet.
+- I believe that there is no silver bullet. Never be superstitious about any language or tool.
+
+- I prefer modern toolchain for programming efficiency. I'd like to commonly use Rust, Go and TypeScript.
+
+- I am always a C++ learner.
 
 - Essential Task: Software itself has inherent difficulties in conceptual construction; that is, how to develop concrete conceptual solutions from abstract problems.
 
 - Accidental Task: Express these abstract entities in a programming language and map the program to machine language under certain space and speed constraints.
 
-- Who are using rather than what language is used is what matter.
+- Who are using rather than what language or tool is used is what matter.
